@@ -2,6 +2,9 @@
 
 OBJETIVOS: 
 
+- Utilizar distintos metodos para determinar cantidades desconocidas en un circuito 
+- Conocer los pincipios de un campo magnetico 
+- Identificar los principales usos para el electromagnetismo y en que dispositivos se puede encontrar o que dispositivos ocupan electromagnetismo  
 
 
 MARCO TEORICO:
@@ -145,3 +148,4 @@ EJERCICIOS
 24. ![image](https://user-images.githubusercontent.com/105940407/177814946-6659bd08-d50f-4dcc-a3c8-0174a13e75c1.png)
 
 CONCLUSIONES 
+

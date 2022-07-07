@@ -147,5 +147,16 @@ EJERCICIOS
 
 24. ![image](https://user-images.githubusercontent.com/105940407/177814946-6659bd08-d50f-4dcc-a3c8-0174a13e75c1.png)
 
+VIDEO 
+
+https://youtu.be/89mGVJXE2o9k
+
 CONCLUSIONES 
 
+Para determinar ciertas cantidades desconocidas en un circuito, se deben manejar muy bien los metodos de resolucion de sistema de ecuaciones 
+
+El electrromagnetismo aunque es una fuerza invisible se encuentra mas cerca de lo que se piensa
+
+BIBLIOGRAFIA 
+
+LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
